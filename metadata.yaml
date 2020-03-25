@@ -1,11 +1,16 @@
 _repo: The-People-of-Palestine-An-enlarged-edition-of-The-Peasantry-of-Palestine-Life-Manners-and-Cu__61662
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61662-h/images/cover.jpg
 creator:
   author:
     agent_name: Grant, Elihu
     gutenberg_agent_id: '51550'
     url: http://www.gutenberg.org/2009/agents/51550
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61662#The-People-of-Palestine-An-enlarged-edition-of-The-Peasantry-of-Palestine-Life-Manners-and-Cu_
 gutenberg_issued: '2020-03-24'
 gutenberg_type: Text
 identifiers:
